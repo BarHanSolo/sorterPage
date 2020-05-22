@@ -11,9 +11,9 @@
   - favicon
  
  
- colorscheme of the app: https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=2E7D32&secondary.color=006064
- link to figma: https://www.figma.com/file/XaD3W1sVnKoKYchODsnKut/LiisuSorter?node-id=13%3A0
- link to the video (I think it should be embedded in the site): youtube.com/watch?v=SYJO2_rM_jE
+ colorscheme of the app: [link](https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=2E7D32&secondary.color=006064)
+ link to figma: [link](https://www.figma.com/file/XaD3W1sVnKoKYchODsnKut/LiisuSorter?node-id=13%3A0)
+ link to the video (I think it should be embedded in the site): [link](youtube.com/watch?v=SYJO2_rM_jE)
  
 
 You can use the [editor on GitHub](https://github.com/BarHanSolo/sorterPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
