@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+
+## To include in the site:
+- tab with film
+- tab with poster
+  - poster todo
+- tab with description
+  - maybe some summary about the group
+  - short desc of the project
+- todo:
+  - logo (?)
+  - favicon
+ 
+ 
+ colorscheme of the app: https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=2E7D32&secondary.color=006064
+ link to figma: https://www.figma.com/file/XaD3W1sVnKoKYchODsnKut/LiisuSorter?node-id=13%3A0
+ link to the video (I think it should be embedded in the site): youtube.com/watch?v=SYJO2_rM_jE
+ 
 
 You can use the [editor on GitHub](https://github.com/BarHanSolo/sorterPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,11 +43,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BarHanSolo/sorterPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
