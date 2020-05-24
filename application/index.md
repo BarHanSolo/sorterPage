@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td><img src="/assets/3.png" width="200px" border="1px"></td>
-    <td><p align=" justify">Next, the application tels you where to put the waste. It is that simple!</p></td>
+    <td><p align=" justify">Next, the application tells you where to put the waste. It is that simple!</p></td>
   </tr>
   <tr>
-    <td><p align=" justify">When the product is not in the database or the type of the packaging is different than the one being checked, user is encouraged to upload his photo and description of the product. Therefore everybody can help others to better sort their waste!</p></td>
+    <td><p align=" justify">If the product is not in the database or the type of the packaging is different than the one being checked, user is encouraged to upload his photo and description of the product. Therefore everybody can help others to better sort their waste!</p></td>
     <td><img src="/assets/4.png" width="200px" border="1px" align="right"></td>
   </tr>
 </table>
