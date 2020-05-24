@@ -1,4 +1,5 @@
-<DIV CLASS="foo">
+<DIV>
+<DIV CLASS="foo" markdown="1">
   
 ## Simple, intuitive sorting
 Do you know how to recycle an egg box?
@@ -9,6 +10,9 @@ The answer can depend on where you live!
 Our app makes it easier to be less of a burden to the environment.
 It scans the barcode of a package and tells you how and where to put it.
 
+</DIV>
+<DIV>
 <img src="/assets/androidFrameScan.png" style="float:right;width:200px;">
 
+</DIV>
 </DIV>
