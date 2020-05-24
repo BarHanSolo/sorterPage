@@ -24,7 +24,11 @@ a {
   color: #1e6bb8;
 }
 #imgPoster {
-  vertical-align: middle;
   border: 1px solid #ddd;
   border-radius: 4px;
+}
+.pitch_video {
+    vertical-align: top;
+    padding-top: 2em;
+}
 }
