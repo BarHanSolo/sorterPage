@@ -8,4 +8,4 @@ The answer can depend on where you live!
 Our app makes it easier to be less of a burden to the environment.
 It scans the barcode of a package and tells you how and where to put it.
 
- <img align="right" src="/assets/androidFrameScan.png" alt="white scan logo" style="float:right; width:200px;">
+ <img align="right" src="/assets/androidFrameScan.png" alt="white scan logo" style="float:right; width:200px; display: block;">
