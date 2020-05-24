@@ -6,3 +6,5 @@ The answer can depend on where you live!
 
 Our app makes it easier to be less of a burden to the environment.
 It scans the barcode of a package and tells you how and where to put it.
+
+ <img src="/assets/scanBinWhite.png" alt="white scan logo" style="float:right; width:200px;">
