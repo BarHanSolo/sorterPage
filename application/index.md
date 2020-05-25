@@ -1,10 +1,5 @@
 <div>
   <h2>About the application</h2>
-  <style type="text/css">
-table {
-  border:0px solid black;
-}
-</style>
   <table style="width:100%">
   <tr>
     <td><img src="/assets/1.png" width="200px" border="1px"></td>
