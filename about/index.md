@@ -1,5 +1,5 @@
 ## Team
-We are a group of highly motivated students, who wants to make a difference in the world.
+We are a group of highly motivated students that wants to make a difference in the world.
 
 <table style="width:100%" cellspacing="0" cellpadding="0">
   <tr>
