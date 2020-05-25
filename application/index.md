@@ -1,6 +1,6 @@
 <div>
   <h2>About the application</h2>
-  <table style="width:100%">
+  <table style="width:100%" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="/assets/1.png" width="200px" border="1px"></td>
     <td colspan="2"><p align=" justify">The idea is simple - all of the products being sold in shops have barcodes. Your phone can scan those barcodes and connect to our database to determine in which containter you should put the packaging.</p></td> 
